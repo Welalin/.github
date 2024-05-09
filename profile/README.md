@@ -1,4 +1,4 @@
-# Welalin
+# Welcome to Team _Welalin_
 
 Wela'lin is a word from the Mi'kmaq language, spoken by the Mi'kmaq people of Eastern Canada, particularly in the Atlantic provinces and Gaspé Peninsula.
 
